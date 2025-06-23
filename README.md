@@ -18,6 +18,6 @@ with any kind of data tye( Integer , character, etc)
 ### Foreign Key
       The "FOREIGN KEY" constraint is a key used to link two tables together.
 
-Output Result:
-![image alt](https://github.com/Dharanish-24/30-Days-Sql-Internship/blob/main/Screenshot%202025-06-23%20174816.png?raw=true)
+#### Output Result:
+![image alt](https://github.com/Dharanish-24/Day01_Sql_Internship/blob/main/Screenshot%202025-06-23%20181324.png)
       
