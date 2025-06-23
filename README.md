@@ -7,3 +7,8 @@
       1.Patient to Appointment
       2.Doctor to Appointment
 ![image alt](https://github.com/Dharanish-24/30-Days-Sql-Internship/blob/main/Screenshot%202025-06-23%20174816.png?raw=true)
+
+### Creating Table
+      CREATE TABLE table_name ( Column1, Column2,.....)
+with any kind of data tye( Integer , character, etc)
+      
