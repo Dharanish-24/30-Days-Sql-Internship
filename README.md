@@ -11,4 +11,11 @@
 ### Creating Table
       CREATE TABLE table_name ( Column1, Column2,.....)
 with any kind of data tye( Integer , character, etc)
+
+### Primary Key
+      Primary keys must contain UNIQUE values, and cannot contain NULL values.A table can have only ONE primary key."PRIMARY KEY"
+
+### Foreign Key
+      The "FOREIGN KEY" constraint is a key used to link two tables together.
+
       
